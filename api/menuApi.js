@@ -1,30 +1,25 @@
 const express = require('express');
-const fs = require('fs').promises;
-const path = require('path');
 const router = express.Router();
 
-router.get('/menu', async (req, res) => {
-  try {
-    const filePath = path.join(__dirname, '../data/menuData.json');
-    const data = await fs.readFile(filePath, 'utf8');
-    const menu = JSON.parse(data);
-    res.json(menu);
-  } catch (error) {
-    console.error('Veri okuma hatası:', error);
-    res.status(500).json({ success: false, error: error.message });
+// Geçici sabit veri (dosya okuma yerine)
+const menu = [
+  {
+    id: 1,
+    item: "Deneme Döner",
+    price: "100",
+    category: "durum",
+    description: "Test açıklama | İçindekiler: Sos, Turşu, Patates, Mayonez",
+    image: "/images/test.png"
   }
+];
+
+router.get('/menu', (req, res) => {
+  res.json(menu);
 });
 
-router.post('/save-menu', async (req, res) => {
-  try {
-    const menuData = req.body;
-    const filePath = path.join(__dirname, '../data/menuData.json');
-    await fs.writeFile(filePath, JSON.stringify(menuData, null, 2), 'utf8');
-    res.json({ success: true });
-  } catch (error) {
-    console.error('Kaydetme hatası:', error);
-    res.status(500).json({ success: false, error: error.message });
-  }
+router.post('/save-menu', (req, res) => {
+  console.log("POST /save-menu çalıştı fakat dosya kaydı yapılmıyor (test modu)");
+  res.json({ success: true, message: "Geçici test modunda başarıyla alındı." });
 });
 
 module.exports = router;
