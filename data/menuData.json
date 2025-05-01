@@ -5,7 +5,7 @@
     "price": "100",
     "image": "/images/tereyagli-duru.png",
     "category": "durum",
-    "description": "Özel tereyağlı sos ile hazırlanan tavuk döner porsiyonu"
+    "description": "Özel tereyağlı sos ile hazırlanan tavuk döner porsiyonu | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": "90",
     "image": "/images/yarim-ekmek.png",
     "category": "durum",
-    "description": "Taze ekmek içinde tavuk döner"
+    "description": "Taze ekmek içinde tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": "140",
     "image": "/images/yarim-ekmek-kasarli.png",
     "category": "durum",
-    "description": "Kaşar peyniri ile zenginleştirilmiş tavuk döner"
+    "description": "Kaşar peyniri ile zenginleştirilmiş tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": "150",
     "image": "/images/doner-porsiyon.png",
     "category": "porsiyon",
-    "description": "Bol malzemeli tavuk döner porsiyonu"
+    "description": "Bol malzemeli tavuk döner porsiyonu | İçindekiler: Sos, Turşu, Patates, Mayonez , Lavaş "
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "price": "120",
     "image": "/images/yarim-ekmek1.png",
     "category": "durum",
-    "description": "Çift lavaş ile hazırlanan tavuk döner dürüm"
+    "description": "Çift lavaş ile hazırlanan tavuk döner dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": "150",
     "image": "/images/kasarli-durum.png",
     "category": "durum",
-    "description": "Kaşar peyniri ile zenginleştirilmiş dürüm"
+    "description": "Kaşar peyniri ile zenginleştirilmiş dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": "130",
     "image": "/images/zurna.png",
     "category": "durum",
-    "description": "Özel soslu zurna tavuk döner"
+    "description": "Özel soslu zurna tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": "150",
     "image": "/images/kasarli-zurna.png",
     "category": "durum",
-    "description": "Kaşar peyniri ile zenginleştirilmiş zurna dürüm"
+    "description": "Kaşar peyniri ile zenginleştirilmiş zurna dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": "230",
     "image": "/images/tam-ekmek.png",
     "category": "durum",
-    "description": "Tam ekmek içinde kaşarlı tavuk döner"
+    "description": "Tam ekmek içinde kaşarlı tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": "90",
     "image": "/images/tereyagli-sandvic.png",
     "category": "durum",
-    "description": "Tereyağlı özel sandviç ekmeği"
+    "description": "Tereyağlı özel sandviç ekmeği | İçindekiler: Sos, Turşu, Patates, Mayonez"
   },
   {
     "id": 11,
