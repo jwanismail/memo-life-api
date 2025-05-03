@@ -26,7 +26,7 @@
   {
     "id": 4,
     "item": "Tavuk Döner (Porsiyon)",
-    "price": "150",
+    "price": "190",
     "image": "/images/doner-porsiyon.png",
     "category": "porsiyon",
     "description": "Bol malzemeli tavuk döner porsiyonu | İçindekiler: Sos, Turşu, Patates, Mayonez , Lavaş "
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "item": "Zurna Tavuk Döner",
-    "price": "130",
+    "price": "150",
     "image": "/images/zurna.png",
     "category": "durum",
     "description": "Özel soslu zurna tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "item": "Kaşarlı Zurna Dürüm",
-    "price": "150",
+    "price": "190",
     "image": "/images/kasarli-zurna.png",
     "category": "durum",
     "description": "Kaşar peyniri ile zenginleştirilmiş zurna dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
