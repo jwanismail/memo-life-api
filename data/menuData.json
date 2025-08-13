@@ -2,7 +2,7 @@
   {
     "id": 1,
     "item": "Tereyağlı Tavuk Döner",
-    "price": "100",
+    "price": "120",
     "image": "/images/tereyagli-duru.png",
     "category": "durum",
     "description": "Özel tereyağlı sos ile hazırlanan tavuk döner porsiyonu | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "item": "Yarım Ekmek Tavuk Döner",
-    "price": "90",
+    "price": "110",
     "image": "/images/yarim-ekmek.png",
     "category": "durum",
     "description": "Taze ekmek içinde tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "item": "Yarım Ekmek Kaşarlı Tavuk Döner",
-    "price": "140",
+    "price": "175",
     "image": "/images/yarim-ekmek-kasarli.png",
     "category": "durum",
     "description": "Kaşar peyniri ile zenginleştirilmiş tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "item": "Tavuk Döner (Porsiyon)",
-    "price": "190",
+    "price": "250",
     "image": "/images/doner-porsiyon.png",
     "category": "porsiyon",
     "description": "Bol malzemeli tavuk döner porsiyonu | İçindekiler: Sos, Turşu, Patates, Mayonez , Lavaş "
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "item": "Tavuk Döner Dürüm (Çift Lavaş)",
-    "price": "120",
+    "price": "140",
     "image": "/images/yarim-ekmek1.png",
     "category": "durum",
     "description": "Çift lavaş ile hazırlanan tavuk döner dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "item": "Kaşarlı Dürüm",
-    "price": "150",
+    "price": "190",
     "image": "/images/kasarli-durum.png",
     "category": "durum",
     "description": "Kaşar peyniri ile zenginleştirilmiş dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "item": "Zurna Tavuk Döner",
-    "price": "150",
+    "price": "170",
     "image": "/images/zurna.png",
     "category": "durum",
     "description": "Özel soslu zurna tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "item": "Kaşarlı Zurna Dürüm",
-    "price": "190",
+    "price": "250",
     "image": "/images/kasarli-zurna.png",
     "category": "durum",
     "description": "Kaşar peyniri ile zenginleştirilmiş zurna dürüm | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "item": "Tam Ekmek Kaşarlı Tavuk Döner",
-    "price": "230",
+    "price": "350",
     "image": "/images/tam-ekmek.png",
     "category": "durum",
     "description": "Tam ekmek içinde kaşarlı tavuk döner | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "item": "Tereyağlı Sandviç Ekmeği",
-    "price": "90",
+    "price": "110",
     "image": "/images/tereyagli-sandvic.png",
     "category": "durum",
     "description": "Tereyağlı özel sandviç ekmeği | İçindekiler: Sos, Turşu, Patates, Mayonez"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "item": "Coca Cola",
-    "price": "50",
+    "price": "60",
     "image": "/images/coca-cola.jpeg",
     "category": "icecek",
     "description": "Soğuk Coca Cola"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "item": "Coca Cola Şekersiz",
-    "price": "50",
+    "price": "60",
     "image": "/images/coca-cola-zero.jpeg",
     "category": "icecek",
     "description": "Şekersiz Coca Cola"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "item": "Sprite",
-    "price": "50",
+    "price": "60",
     "image": "/images/sprite.jpeg",
     "category": "icecek",
     "description": "Soğuk Sprite"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "item": "Fanta",
-    "price": "50",
+    "price": "60",
     "image": "/images/fanta.jpeg",
     "category": "icecek",
     "description": "Soğuk Fanta"
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "item": "Fuse Tea",
-    "price": "50",
+    "price": "60",
     "image": "/images/fuse-tea.jpeg",
     "category": "icecek",
     "description": "Soğuk Fuse Tea"
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "item": "Eker Ayran",
-    "price": "20",
+    "price": "40",
     "image": "/images/0001530_eker-ayran-270-ml_510-Photoroom.png",
     "category": "icecek",
     "description": "Soğuk Eker Ayran"
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "item": "Ayran",
-    "price": "30",
+    "price": "40",
     "image": "/images/Ayran.jpeg",
     "category": "icecek",
     "description": "Soğuk Ayran"
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "item": "Meyveli Soda",
-    "price": "30",
+    "price": "40",
     "image": "/images/meyveli-soda.jpeg",
     "category": "icecek",
     "description": "Soğuk Meyveli Soda"
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "item": "Kutu İçecekler",
-    "price": "50",
+    "price": "60",
     "image": "/images/kuru-icecekler.jpeg",
     "category": "icecek",
     "description": "Kutu içecek seçenekleri."
